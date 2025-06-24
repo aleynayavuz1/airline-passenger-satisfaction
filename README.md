@@ -1,4 +1,4 @@
-# Flight Delay Dataset - Outlier Analysis
+# Airline Passenger Satisfaction Dataset
 
 This project involves outlier detection and basic data cleaning on a Airline Passenger Satisfaction dataset.
 
